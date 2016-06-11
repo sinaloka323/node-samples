@@ -1,4 +1,5 @@
-var paypal = require('paypal-rest-sdk'),
+var
+paypal = require('paypal-rest-sdk'),
     bodyParser = require('body-parser'),
     http = require('http'),
     app = require('express')();
